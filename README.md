@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: geekrainy@gmail.com
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekrainy)](https://github.com/anuraghazra/github-readme-stats)
+![geekrainy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geekrainy\&layout=compact)
